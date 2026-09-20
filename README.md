@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Antarah Pardessi
 
-### 📊 Data Science Student • Data Analyst • Machine Learning Enthusiast
+### 📊 Data Science Student • Data Analytics • Business Analytics
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Data-Driven+Solutions+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Learning+Something+New+Every+Day+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Turning+Data+into+Business+Insights+%F0%9F%93%8A;Building+Data-Driven+Solutions+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Analyzing+Data+to+Support+Better+Decisions+%F0%9F%92%A1;Learn+%7C+Analyze+%7C+Build+%7C+Improve+%F0%9F%8C%B1" />
 
 <br>
 
@@ -22,46 +22,59 @@
 
 🎓 **Third-Year B.Sc. Data Science Student**
 
-📊 Passionate about **Data Analytics, Business Intelligence & Machine Learning**
+📊 Interested in **Data Science, Data Analytics & Business Analytics**
 
-🐍 I enjoy turning raw data into **meaningful insights and practical solutions**
+🔍 Passionate about transforming raw data into **meaningful insights**
 
-🤖 Exploring **Machine Learning, NLP, AI & Predictive Analytics**
+📈 Interested in **Business Intelligence, KPI Analysis & Data Visualization**
 
-🗄️ Interested in **SQL, Data Warehousing & Customer Intelligence**
+🧠 Exploring **Machine Learning, Predictive Analytics, NLP & AI**
 
-📈 Love creating **Power BI dashboards and analytical stories**
+🗄️ Working with **SQL, PostgreSQL, Data Warehousing & ETL**
 
-🚀 Building projects focused on **real-world problems**
+📊 Building **Power BI dashboards and data-driven business solutions**
 
-🌱 Currently learning **Advanced SQL, Machine Learning, Streamlit & AI**
+🚀 Enjoy solving real-world problems through **data-driven thinking**
 
-💡 Interested in combining **data, technology and business thinking** to build useful solutions.
+🌱 Continuously learning and building projects across **Data, Analytics & AI**
 
 ---
 
-# ⚡ My Data Journey
+# 💡 What I Do
+
+<div align="center">
+
+| 📊 Data Analytics | 🧠 Data Science | 💼 Business Analytics |
+|:---:|:---:|:---:|
+| Data Cleaning | Machine Learning | Business Insights |
+| EDA | Predictive Analytics | KPI Analysis |
+| Statistical Analysis | Model Building | Customer Analytics |
+| Data Visualization | Model Evaluation | Decision Support |
+| Dashboarding | Feature Analysis | Performance Analysis |
+
+</div>
+
+---
+
+# ⚡ My Data-to-Decision Journey
 
 ```text
-                RAW DATA
-                    │
-                    ▼
-            🧹 DATA CLEANING
-                    │
-                    ▼
-             🔍 EDA & ANALYSIS
-                    │
-                    ▼
-              🗄️ SQL / ETL
-                    │
-                    ▼
-          📊 VISUALIZATION / BI
-                    │
-                    ▼
-             🤖 MACHINE LEARNING
-                    │
-                    ▼
-             🔮 PREDICTIVE INSIGHTS
-                    │
-                    ▼
-             🚀 REAL-WORLD IMPACT
+📥 RAW DATA
+     ↓
+🧹 DATA CLEANING
+     ↓
+🔍 EXPLORATORY DATA ANALYSIS
+     ↓
+📊 STATISTICAL & BUSINESS ANALYSIS
+     ↓
+🗄️ SQL / ETL / DATA WAREHOUSING
+     ↓
+📈 VISUALIZATION & BUSINESS INTELLIGENCE
+     ↓
+🤖 MACHINE LEARNING
+     ↓
+🔮 PREDICTIVE INSIGHTS
+     ↓
+💡 BUSINESS RECOMMENDATIONS
+     ↓
+🚀 DATA-DRIVEN DECISIONS
