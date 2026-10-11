@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 # 👋 Hi, I'm Antarah Pardessi
@@ -9,7 +10,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=antarahpardessi24-stack&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
-
 
 </div>
 
@@ -139,4 +139,5 @@
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
 </p>
 
-**Also:** Data Warehousing • ETL • Database Design • Data
+**Also:** Data Warehousing • ETL • Database Design
+```
