@@ -10,9 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=antarahpardessi24-stack&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/antarahpardessi24-stack?label=FOLLOWERS&style=for-the-badge&logo=github" />
-
-<img src="https://img.shields.io/github/stars/antarahpardessi24-stack?label=STARS&style=for-the-badge&logo=github" />
 
 </div>
 
